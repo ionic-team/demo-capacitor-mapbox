@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+id mapView
+id webview
+layout bridge_layout_main
+layout map_activity
+string mapbox_access_token
+string my_string

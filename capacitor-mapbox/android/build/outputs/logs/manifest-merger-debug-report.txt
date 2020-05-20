@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:2:3-15:14
+INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:2:3-15:14
+INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:2:3-15:14
+INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:2:3-15:14
+INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:2:3-15:14
+INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:2:3-15:14
+INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:2:3-15:14
+	package
+		ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:3:7-62
+		INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
+		INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
+		ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:2:3-15:14
+		INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
+		ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:2:3-15:14
+		INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:2:13-71
+application
+ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:5:5-14:19
+activity#com.ionicframework.cap.mapbox.MapBoxActivity
+ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:6:7-13:18
+	android:configChanges
+		ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:8:11-72
+	android:name
+		ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:7:11-70
+intent-filter#action:name:com.netty.prof.MapBoxActivity+category:name:android.intent.category.DEFAULT
+ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:9:9-12:25
+action#com.netty.prof.MapBoxActivity
+ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:10:11-65
+	android:name
+		ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:10:19-63
+category#android.intent.category.DEFAULT
+ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:11:11-69
+	android:name
+		ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:11:21-67
+uses-sdk
+INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
+INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
+INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
+INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
+		ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
+		INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
+		ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
+		INJECTED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml
