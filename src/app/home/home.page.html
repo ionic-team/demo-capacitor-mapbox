@@ -1,0 +1,21 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Home
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Home</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <div id="container">
+    <ion-button (click)="openMap(43.0731, -89.4012)">Madison, WI</ion-button>
+    <ion-button (click)="openMap(61.2173, -149.8631)" color="secondary">Anchorage, AL</ion-button>
+    <ion-button (click)="openMap(32.7157, -117.1610)" color="tertiary">San Diego, CA</ion-button>
+  </div>
+</ion-content>

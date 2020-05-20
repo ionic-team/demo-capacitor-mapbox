@@ -1,0 +1,7 @@
+{
+  "name": "io.ionic.demo.cap.mapbox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
