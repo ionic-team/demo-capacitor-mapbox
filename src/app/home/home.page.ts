@@ -5,16 +5,15 @@ const { Mapbox } = Plugins;
 
 @Component({
   selector: 'app-home',
-  templateUrl: 'home.page.html',
+  templateUrl: 'home.page.html', 
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
 
   constructor() {}
 
-  openMap(lat, long) {
-    console.log("mapbox is " + Mapbox);
-    Mapbox.openMap({
+  async openMap(lat, long) {
+    await Mapbox.openMap({
       lat: lat, 
       long: long 
     });

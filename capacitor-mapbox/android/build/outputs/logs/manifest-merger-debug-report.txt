@@ -29,12 +29,12 @@ ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbo
 		ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:8:11-72
 	android:name
 		ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:7:11-70
-intent-filter#action:name:com.netty.prof.MapBoxActivity+category:name:android.intent.category.DEFAULT
+intent-filter#action:name:com.ionicframework.cap.mapbox.MapBoxActivity+category:name:android.intent.category.DEFAULT
 ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:9:9-12:25
-action#com.netty.prof.MapBoxActivity
-ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:10:11-65
+action#com.ionicframework.cap.mapbox.MapBoxActivity
+ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:10:11-80
 	android:name
-		ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:10:19-63
+		ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:10:19-78
 category#android.intent.category.DEFAULT
 ADDED from C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:11:11-69
 	android:name

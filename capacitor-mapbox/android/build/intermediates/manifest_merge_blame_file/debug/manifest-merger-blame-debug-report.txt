@@ -20,9 +20,9 @@
 14-->C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:8:11-72
 15            <intent-filter>
 15-->C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:9:9-12:25
-16                <action android:name="com.netty.prof.MapBoxActivity" />
-16-->C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:10:11-65
-16-->C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:10:19-63
+16                <action android:name="com.ionicframework.cap.mapbox.MapBoxActivity" />
+16-->C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:10:11-80
+16-->C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:10:19-78
 17
 18                <category android:name="android.intent.category.DEFAULT" />
 18-->C:\src\ionic\demos\demo-capacitor-mapbox\node_modules\capacitor-mapbox\android\src\main\AndroidManifest.xml:11:11-69

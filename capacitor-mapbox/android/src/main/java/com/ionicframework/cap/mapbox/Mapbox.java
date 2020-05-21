@@ -2,6 +2,7 @@ package com.ionicframework.cap.mapbox;
 
 import android.Manifest;
 import android.content.Intent;
+import android.util.Log;
 
 import com.getcapacitor.JSObject;
 import com.getcapacitor.NativePlugin;
@@ -23,7 +24,7 @@ public class Mapbox extends Plugin {
         call.success(ret);
     }
 
-    @PluginMethod
+    @PluginMethod()
     public void openMap(PluginCall call) {
         Double latitude = call.getDouble("lat");
         Double longitude = call.getDouble("long");
