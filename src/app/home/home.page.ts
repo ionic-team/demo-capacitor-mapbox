@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { Plugins } from '@capacitor/core';
+import 'capacitor-mapbox';
 
 const { Mapbox } = Plugins;
 

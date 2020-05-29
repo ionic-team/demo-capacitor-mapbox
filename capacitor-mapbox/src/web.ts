@@ -15,7 +15,7 @@ export class MapboxWeb extends WebPlugin implements MapboxPlugin {
   }
 
   async openMap(location: { lat: number, long: number}): Promise<void> {
-    console.log(`Can't open ${location} - Web is not supported.`);
+    console.log(`Can't open Mapbox map - Web is not supported.`);
   }
 }
 
